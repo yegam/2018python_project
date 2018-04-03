@@ -1,3 +1,4 @@
+#시험 스코어
 print('input score (0-100)')
 score= int(input())
 if 90<=score<=100 :

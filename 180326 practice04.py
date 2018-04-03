@@ -1,3 +1,4 @@
+#최대값알아보기
 def sum(num1):
     
     n1 = int(num1/1000)

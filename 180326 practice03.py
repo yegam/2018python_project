@@ -1,3 +1,5 @@
+#함수 팩토리얼
+
 def inputnum(num):
     absolute=0
     factorial = num
